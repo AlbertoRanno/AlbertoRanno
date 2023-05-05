@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Dev4IT](https://github.com/AlbertoRanno/dev4it)
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **.NET**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AlbertoRanno](https://github.com/AlbertoRanno)
 
