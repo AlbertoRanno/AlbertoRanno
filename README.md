@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alberto Daniel Ranno</h1>
 <h3 align="center">A motivated full stack junior developer eager to continue adding experience</h3>
 
-- 🔭 I’m currently working on [Dev4IT](https://github.com/AlbertoRanno/dev4it)
+- 🔭 I’m currently working on "CDT - Consultores en Desarrollos Tecnológicos S.A."
 
-- 🌱 I’m currently learning **.NET & JAVA**
+- 🌱 I’m currently learning **.NET (EducacionIT) & JAVA (Udemy)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AlbertoRanno](https://github.com/AlbertoRanno)
 
