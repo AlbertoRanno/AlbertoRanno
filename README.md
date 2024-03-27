@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alberto Daniel Ranno</h1>
-<h3 align="center">A motivated full stack junior developer eager to continue adding experience</h3>
+<h3 align="center">A motivated full stack developer eager to continue adding experience</h3>
 
 - 🔭 I’m currently working on "CDT - Consultores en Desarrollos Tecnológicos S.A."
 
