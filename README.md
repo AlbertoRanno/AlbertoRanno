@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on "CDT - Consultores en Desarrollos Tecnológicos S.A."
 
-- 🌱 I’m currently learning **Ingeniería de Prompt**
+- 🌱 I’m currently learning **Prompt Engineering**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AlbertoRanno](https://github.com/AlbertoRanno)
 
