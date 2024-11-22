@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on "CDT - Consultores en Desarrollos Tecnológicos S.A."
 
-- 🌱 I’m currently learning **.NET (EducacionIT) & JAVA (Udemy)**
+- 🌱 I’m currently learning **Ingeniería de Prompt**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AlbertoRanno](https://github.com/AlbertoRanno)
 
-- 💬 Ask me about **backend and frontend development with JS / React**
+- 💬 Ask me about **backend and frontend development with JS / React / Spring Boot / MySQL**
 
 - 📫 How to reach me **albertoranno@gmail.com**
 
